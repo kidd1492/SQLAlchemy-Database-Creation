@@ -1,0 +1,600 @@
+name,parkCode,state,longitude,latitude,totalSites,tentOnly,electricalHookups,showers,dumpStation,host,potableWater,firewoodForSale,reservationUrl
+277 North Campground,amis,,-100.9081663,29.5123737,18,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10182621
+Abrams Creek Campground,grsm,TN,-83.93318327,35.61074665,16,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/273847
+Adirondack Shelters,cato,MD,-77.4846272,39.67775042,2,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/233321?q=Adirondack%20Shelters
+Afterbay Campground,bica,MT,-107.9416589,45.31543821,22,0,22,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Akers Group Campground,ozar,MO,-91.56154633,37.37645519,4,4,0,['None'],No,No,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234442
+Alamo Canyon Primitive Campground,orpi,AZ,-112.728093,32.072943,4,4,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/247566
+Alley Spring Campground,ozar,MO,-91.449767,37.148223,162,3,28,"['Free - Seasonal', 'Hot - Year Round']",Yes - year round,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234046
+Alum Ford Campground,biso,KY,-84.54633757,36.76403375,6,6,0,['None'],No,No,['No water'],No,
+American Memorial Park,amme,MP,,,0,0,0,[],,,[],,
+Anacapa Island Campground,chis,CA,-119.3677631,34.01434265,7,7,0,['None'],No,Yes - year round,['No water'],No,https://www.recreation.gov/camping/campgrounds/232502
+Antelope Point RV Park,glca,,-111.4312363,36.95603058,104,0,104,['None'],Yes - year round,Yes - year round,['Yes - year round'],No,https://www.roverpass.com/c/antelope-point-rv-park-page-az/booking/?slug=antelope-point-rv-park-page-az
+Antietam Creek Campground,choh,,-77.74884282,39.42110918,20,20,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/252970
+Apgar Campground,glac,MT,-113.9818602,48.52608104,194,0,0,"['None', 'Free - Seasonal']",Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234669
+Army Camp,neri,WV,-81.092319,37.858852,11,0,0,['None'],No,No,['No water'],No,
+Aspenglen Campground,romo,CO,-105.5930545,40.39934771,52,13,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/233187
+Atwell Mill Campground,seki,CA,-118.6696722,36.46466812,21,21,0,['None'],No,No,['Yes - seasonal'],No,
+Au Sable East Group Backpacking Site,piro,,-86.13682,46.670375,1,1,0,[],,,[],,https://www.recreation.gov/camping/campgrounds/256367
+Au Sable East Individual Backpacking Sites,piro,,-86.135215,46.669327,6,6,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Avalanche,glac,MT,-113.8185251,48.67654586,87,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/258796
+Azalea Campground,seki,CA,-118.9677768,36.74133435,110,0,0,['None'],No,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/10124502
+Back Country Camping - Green Run,asis,MD,-75.2135101,38.0799523,1,1,0,['None'],Yes - year round,Yes - seasonal,['No water'],Yes - seasonal,
+Back Country Camping - Little Levels,asis,,-75.1727158,38.1521378,1,1,0,['None'],Yes - year round,Yes - seasonal,['No water'],Yes - seasonal,
+Back Country Camping - Pine Tree,asis,MD,-75.1883865,38.1432381,1,1,0,['None'],Yes - year round,Yes - seasonal,['No water'],Yes - seasonal,
+Back Country Camping - Pope Bay,asis,MD,-75.2341248,38.0477906,1,1,0,['None'],Yes - year round,No,['No water'],No,
+Back Country Camping - State Line,asis,,-75.23139,38.04472,1,1,0,['None'],Yes - year round,Yes - seasonal,['No water'],Yes - seasonal,
+Back Country Camping - Tingles Island,asis,MD,-75.175432,38.177712,1,1,0,['None'],Yes - seasonal,Yes - seasonal,['No water'],Yes - seasonal,
+Backcountry Camping,whsa,MN,-106.264225,32.809869,10,10,0,['None'],No,No,['No water'],No,
+Backcountry Camping,care,UT,,,0,0,0,[],,,[],,
+Backcountry Camping in the Otis Pike High Dune Wilderness,fiis,,-72.9719285,40.6961609,36,36,0,['None'],No,Yes - seasonal,['No water'],No,https://www.recreation.gov/permits/234768
+Backpacking Campsites in the Dunes or Forest,grsa,CO,-105.535601,37.77724,27,27,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/permits/4675316
+Baker Creek Campground,grba,,-114.24331,38.98573,37,4,0,['None'],No,Yes - seasonal,['No water'],No,
+Bald Eagle Island Hiker-Biker Campsite,choh,MD,-77.557168,39.299834,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Balsam Mountain Campground,grsm,TN,-83.17429877,35.56543625,42,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,
+Bandy Creek Campground,biso,TN,-84.69712297,36.48866105,149,39,98,['Hot - Year Round'],Yes - year round,Yes - year round,['Yes - year round'],Yes - year round,https://www.recreation.gov/camping/campgrounds/232506?q=Bandy%20Creek
+Barry's Landing & Trail Creek Campground,bica,WY,-108.2255711,45.10441283,30,16,0,['None'],No,Yes - seasonal,['No water'],No,http://www.hiddentreasurecharters.com
+Bartlett Cove Campground,glba,AK,-135.8944003,58.45078089,33,33,0,['None'],No,No,['Yes - year round'],No,
+Bay Campground - South Manitou Island,slbe,MI,-86.102772,45.018882,28,28,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/232456
+Bayside Drive-in Campground,asis,MD,-75.1593791,38.2077371,22,0,0,"['Cold- Seasonal', 'Free - Seasonal']",Yes - year round,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232507
+Bear Creek Horse Camp,biso,KY,-84.52438967,36.64236975,23,23,23,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251468?q=Bear%20Creek%20Horse%20Camp
+Bear Island Campground,bicy,FL,-81.24747527,26.18323975,40,0,0,[],,,[],,https://www.recreation.gov
+Beaver Creek Individual Backpacking Sites,piro,,-86.350163,46.577012,6,6,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Beaver Island Campground,isro,MI,-89.17433647,47.90406144,3,0,0,['None'],No,No,"['Water', ' but not potable']",No,
+Beehives Campground,glca,AZ,-111.496291,36.938243,6,0,0,['None'],No,No,['No water'],No,
+Belle Campground,jotr,CA,-116.019762,34.00193735,18,0,0,['None'],No,No,['No water'],No,
+Belle Fourche River Campground,deto,WY,-104.7063435,44.58183404,46,3,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,
+Belle Isle Campground,isro,MI,-88.58598761,48.15235178,7,1,0,['None'],No,Yes - seasonal,"['Water', ' but not potable']",No,
+Benchmark Individual Backpacking Sites,piro,,-86.200461,46.647014,6,6,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Bicentennial Campground,goga,CA,-122.5267255,37.82457211,3,3,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/272229
+Big Creek Campground,grsm,TN,-83.11138107,35.75007765,12,12,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/273821
+Big Meadows Campground,shen,VA,-78.4369404,38.5279623,221,51,0,['Coin-Operated - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232459
+Big Seboeis Campsite,kaww,,-68.635802,45.932131,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Big Spring Brook Campsite,kaww,,-68.72568773,46.02879361,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Big Spring Brook Hut,kaww,NE,-68.77423209,46.03418486,1,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Big Spring Campground,ozar,MO,-90.98586951,36.96099385,123,3,23,"['Hot - Seasonal', 'Free - Seasonal']",Yes - year round,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234044
+Big Woods Hiker-Biker Campsite,choh,MD,-77.792591,39.492868,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Birch Island Campground,isro,MN,-88.68562292,48.11010773,2,1,0,['None'],No,No,"['Water', ' but not potable']",No,
+Bird Island Basin Campground,pais,TX,-97.313693,27.466794,34,0,0,['None'],No,Yes - seasonal,['No water'],No,
+Black Canyon Campground,bica,MI,-107.9626037,45.25091803,17,17,0,['None'],No,Yes - seasonal,['No water'],No,
+Black Canyon Group and Equestrian Campground,moja,CA,-115.3829568,35.04862556,2,0,0,['None'],No,No,['Yes - year round'],No,
+Black Rock Campground,jotr,,-116.3914968,34.07298224,99,0,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/232473
+Blackwoods Campground,acad,ME,-68.20988547,44.30894404,281,221,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232508
+Blue Creek,lamr,TX,-101.6638413,35.72307202,50,0,0,['None'],No,No,['No water'],No,
+Blue Heron Campground,biso,KY,-84.51850557,36.67753545,45,45,45,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232505?q=Blue%20Heron%20Campground
+Blue Ridge Wilderness Campground,gumo,,-104.8717482,31.94825873,5,5,0,['None'],No,No,['No water'],No,https://www.recreation.gov/permits/4675328
+Blue West Campground,lamr,,-101.6285619,35.68245589,30,0,0,['None'],No,No,['No water'],No,
+Bluff Campground,cong,,-80.81488727,33.83230625,6,6,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10191039
+Boca Chita Campground,bisc,FL,-80.1746,25.5231,60,60,0,"['Cold- Seasonal', 'Free - Seasonal']",No,No,"['Water', ' but not potable']",No,
+Bonita Canyon Campground,chir,,-109.3550602,32.01155072,26,0,0,['None'],No,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/250901
+Boulder Beach Campground (Lake Mead),lake,NV,-114.8019166,36.03695033,135,135,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/10075120
+Boulder Beach Group Campground (Lake Mead),lake,NV,-114.8025731,36.0375252,5,5,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/10048964?tab=info
+Bow Creek Primitive Camping,mnrr,,-97.1481,42.7776,5,5,0,['None'],No,No,['No water'],No,
+Bowman Lake,glac,MT,-114.2031304,48.8290465,48,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Brandy Creek,whis,CA,-122.5749567,40.61739333,2,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/272250
+Brandy Creek RV,whis,CA,-122.57476,40.61705,15,0,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/10047085?q=Brandy%20Creek%20Rv%20Campground
+Brickhill Bluff Wilderness Campsite,cuis,,-81.444,30.8945,4,4,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/253730
+Bridalveil Creek Campground,yose,,-119.6242934,37.66365763,115,41,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232453
+Bridge Bay Campground,yell,WY,-110.4369237,44.53443775,432,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://secure.yellowstonenationalparklodges.com/booking/lodging
+Brooklyn Campground,neri,WV,-81.027881,37.984096,5,5,0,['None'],No,No,['No water'],No,
+Brooks Camp Campground,katm,AK,-155.7775348,58.5597863,60,60,0,['Coin-Operated - Seasonal'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/permits/249991
+Buckeye Flat Campground,seki,CA,-118.7641065,36.52243302,27,27,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/249982
+Buckhorn Campground Loop A,chic,,-96.98811137,34.42967025,19,0,0,['Hot - Year Round'],Yes - year round,Yes - seasonal,['Yes - seasonal'],No,
+Buckhorn Campground Loop B,chic,,-96.99206698,34.42716135,25,0,0,['Hot - Seasonal'],Yes - year round,Yes - seasonal,['Yes - seasonal'],No,
+Buckhorn Campground Loop C,chic,,-96.99684113,34.43309287,41,0,24,['Hot - Year Round'],Yes - year round,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/234047
+Buckhorn Campground Loop D,chic,,-96.99748192,34.43276655,48,0,24,['Hot - Year Round'],Yes - year round,Yes - year round,['Yes - year round'],No,
+Buffalo Point Campground,buff,AR,-92.5555763,36.0715555,108,21,82,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234043
+Bugbee Canyon,lamr,TX,-101.590147,35.7248099,10,0,0,['None'],No,No,['No water'],No,
+Bullfrog RV & Campground,glca,UT,-110.7210295,37.51996915,98,0,18,"['Hot - Year Round', 'Coin-Operated - Year Round']",Yes - year round,Yes - seasonal,['Yes - year round'],Yes - seasonal,http://www.lakepowell.com/rv-camping/bullfrog-rv-campground/
+Burns Lake,bicy,FL,-81.22976967,25.89311885,0,0,0,['None'],No,Yes - seasonal,['No water'],No,https://www.recreation.gov/camping/campgrounds/246890
+Burnwood Group Campsite,neri,WV,-81.077535,38.073636,1,0,0,['None'],No,No,['Yes - year round'],No,
+Bush Mountain Wilderness Campground,gumo,,-104.8766854,31.92641602,5,5,0,['None'],No,No,['No water'],No,https://www.recreation.gov/permits/4675328
+Butte Lake Campground,lavo,CA,-121.3057643,40.56480116,101,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234156
+Cabin Camp 1 (By Reservation Only),prwi,VA,-77.35605255,38.59701769,1,0,0,['Hot - Year Round'],No,Yes - year round,['Yes - year round'],No,http://www.nps.gov/prwi/planyourvisit/group-cabin-camping.htm
+Cabin Camp 2 (By Reservation Only),prwi,,-77.4157374,38.58137504,1,0,0,['Hot - Year Round'],No,Yes - year round,['Yes - year round'],No,http://www.nps.gov/prwi/planyourvisit/group-cabin-camping.htm
+Cabin Camp 3 (By Reservation Only),prwi,VA,-77.36493033,38.56367216,13,0,0,['Hot - Year Round'],No,Yes - year round,['Yes - year round'],No,http://www.nps.gov/prwi/planyourvisit/group-cabin-camping.htm
+Cabin Camp 4 (By Reservation Only),prwi,VA,-77.35386082,38.59150926,1,0,0,['Hot - Year Round'],No,Yes - year round,['Yes - year round'],No,http://www.nps.gov/prwi/planyourvisit/group-cabin-camping.htm
+Cabin Camp 5 (By Reservation Only),prwi,VA,-77.41256789,38.57577906,1,0,0,['Hot - Year Round'],No,No,['Yes - year round'],No,http://www.nps.gov/prwi/planyourvisit/group-cabin-camping.htm
+Cacapon Junction Hiker-Biker Campsite,choh,MD,-78.279305,39.621284,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Cades Cove Campground,grsm,TN,-83.77629277,35.60272465,159,31,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232488
+Cades Cove Group Campground,grsm,TN,-83.77130987,35.60389165,3,3,0,['None'],Yes - year round,Yes - year round,['Yes - year round'],Yes - seasonal,
+Calico Rocks Hiker-Biker Campsite,choh,MD,-77.535582,39.271168,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Callville Bay Campground (Lake Mead),lake,,-114.7286122,36.13780886,52,52,0,['None'],Yes - year round,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/10068459
+Callville Bay RV Park (Lake Mead),lake,NV,-114.725594,36.143263,0,0,0,[],,,[],,
+Camp 4 Campground,yose,,-119.6022531,37.74205411,25,25,0,['Hot - Year Round'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/10004152
+Camp Greentop,cato,MD,-77.47656473,39.64454144,16,0,0,['Hot - Seasonal'],No,No,['Yes - year round'],Yes - seasonal,http://www.nps.gov/cato/planyourvisit/greentop.htm
+Camp Misty Mount,cato,MD,-77.44844895,39.64188515,30,0,0,['Hot - Seasonal'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/233241?q=Camp%20Misty%20Mount
+Camp Round Meadow,cato,MD,-77.4876281,39.64491698,1,0,0,['Hot - Year Round'],No,No,['Yes - year round'],Yes - year round,https://www.recreation.gov/camping/campgrounds/251264?q=Camp%20Round%20Meadow
+Camping and Huts,kaww,,-68.80146299,46.1249343,24,15,0,[],,,[],,https://www.recreation.gov/camping/campgrounds/10145539
+Canaveral National Seashore Backcountry Island Camping,cana,FL,-80.82460297,28.92700096,14,14,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/251854/itinerary
+Canyon Campground,yell,WY,-110.4879124,44.73538375,273,0,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://secure.yellowstonenationalparklodges.com/booking/lodging
+Canyon City,klgo,AK,-135.3246672,59.6075624,11,11,0,['None'],No,No,"['Water', ' but not potable']",No,http://www.nps.gov/klgo/planyourvisit/permits.htm
+Canyon View Campground,nava,AZ,,,13,13,0,[],,,[],,http://www.nps.gov/nava
+Canyon View Campground,seki,CA,-118.6654493,36.78719294,16,0,0,['None'],No,No,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234753
+Cape Point Campground,caha,NC,-75.53911,35.235775,202,0,0,"['Cold- Seasonal', 'Free - Seasonal']",Yes - seasonal,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251945
+Caribou Island Campground,isro,MI,-88.57220405,48.09457121,3,1,0,['None'],No,No,"['Water', ' but not potable']",No,
+Carver Campground,buff,AR,-93.0401838,35.9835736,8,8,0,['None'],No,No,['Yes - seasonal'],No,
+Cataloochee Campground,grsm,NC,-83.08554127,35.63118595,27,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/233284
+Cave Creek Campground,orca,OR,-123.4316997,42.1142851,17,17,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,
+Cedar Canyon Campground,lamr,TX,-101.24451,35.79584,15,0,0,['None'],No,No,['Yes - year round'],No,
+Cedar Pass Campground,badl,SD,-101.950161,43.744154,96,82,10,"['Hot - Seasonal', 'Coin-Operated - Seasonal']",Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.cedarpasslodge.com/campground/
+Central Campground,chic,,-96.96555075,34.50317963,0,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234050
+Chapel Individual Backpacking Sites,piro,,-86.440929,46.546925,6,6,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Chimney Hollow Campground,lamr,TX,-101.642234,35.69186029,15,0,0,[],,,[],,
+Chippewa Harbor Campground,isro,MI,-88.65103791,48.02936725,7,2,0,['None'],No,No,"['Water', ' but not potable']",No,
+Chisel Branch Hiker-Biker Campsite,choh,MD,-77.473011,39.102158,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Chisos Basin Campground,bibe,,-103.3022857,29.27590079,56,0,0,['None'],Yes - year round,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/234038
+Chopawamsic Backcountry Area,prwi,VA,-77.40690973,38.55876143,8,8,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/259170
+Cimarron Campground,cure,,-107.5555428,38.44430449,21,0,0,['None'],Yes - seasonal,No,['Yes - seasonal'],No,
+Circle X Ranch Campground - CLOSED,samo,CA,-118.9265255,34.111279,1,0,0,['None'],No,Yes - year round,['No water'],No,https://www.recreation.gov/camping/campgrounds/233381
+City of Rocks Campground,ciro,ID,-113.701382,42.067203,67,49,0,['None'],No,No,['Yes - seasonal'],No,https://www.reserveamerica.com/explore/city-of-rocks-national-reserve/ID/315044/overview
+Cliffs Group Backpacking Site,piro,,-86.556577,46.48567,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/256367
+Cliffs Individual Backpacking Sites,piro,,-86.570456,46.473431,3,3,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/256367
+Cloverleaf Campground,laro,WA,-118.1468585,48.29711097,7,7,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/275085
+Coast Campground,pore,CA,-122.8543753,38.01717281,14,14,0,['None'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/233359
+Cold Springs Campground,seki,CA,-118.6124106,36.45130196,40,40,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/246864
+Cold Springs Campground,chic,,-96.96043276,34.5007809,65,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234049
+Colonial Creek North Campground,noca,WA,-121.101,48.691,41,10,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/246855?tab=campsites
+Colonial Creek South Campground,noca,WA,-121.094,48.687,96,19,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/255201
+Colorado River Primitive Camping Between Glen Canyon Dam and Lees Ferry,glca,AZ,-111.5866863,36.86618866,5,5,0,['None'],No,No,"['Water', ' but not potable']",No,
+Colter Bay Campground,grte,WY,-110.641379,43.90747805,324,0,13,['Coin-Operated - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/258830
+Colter Bay RV Park,grte,WY,-110.641324,43.905642,112,0,112,['Coin-Operated - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/258831
+Colter Bay Tent Village,grte,WY,-110.6349474,43.90415027,66,0,0,['Coin-Operated - Seasonal'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/10099575
+Cosby Campground,grsm,TN,-83.20925027,35.75454485,157,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232479
+Cottonwood Campground,jotr,CA,-115.8128299,33.74488013,62,0,0,['None'],Yes - year round,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/272299
+Cottonwood Campground,thro,,-103.5312686,46.94993451,76,12,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251160
+Cottonwood Campground,bibe,,-103.522514,29.1367804,22,0,0,['None'],No,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/234078
+Cottonwood Cove Campground (Lake Mohave),lake,,-114.6950335,35.48775572,45,45,0,[],,,[],,https://www.recreation.gov/camping/campgrounds/10068512
+Cottonwood Cove RV Park (Lake Mead),lake,,-114.6883523,35.49080255,72,0,72,[],,,[],,
+Cougar Rock Campground,mora,,-121.7923708,46.7676068,179,78,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232466
+Coves Group Backpacking Site,piro,,-86.395902,46.56088,1,1,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Coves Individual Backpacking Sites,piro,,-86.372254,46.568171,5,5,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Crabtree Falls Campground,blri,NC,-82.14556897,35.81538605,81,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/258667
+Crane Flat Campground,yose,,-119.800259,37.74979608,162,88,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232452
+Crystal Creek,whis,CA,-122.6710333,40.6422,2,2,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/272247
+Crystal Springs Campground,seki,CA,-118.9629581,36.74532774,50,0,0,['None'],No,No,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/251008
+Cumberland Valley Hiker-Biker Campsite,choh,MD,-77.853069,39.562141,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Cut Bank,glac,MT,-113.3769497,48.60599159,14,0,0,['None'],No,No,['No water'],No,
+D. H. Day Campground,slbe,MI,-86.02006,44.89615,87,23,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/259242
+D. H. Day Campground Group Campground,slbe,MI,-86.02006,44.89615,4,4,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232457
+Daisy Farm Campground,isro,MI,-88.59622128,48.09208065,25,6,0,['None'],No,Yes - seasonal,"['Water', ' but not potable']",No,
+Davis Bayou Campground,guis,MS,-88.795595,30.397808,52,3,52,['Hot - Year Round'],Yes - year round,Yes - seasonal,['Yes - year round'],No,
+Dayboard 9 Campground,bica,MT,-108.0028519,45.2651648,5,5,0,['None'],No,No,['No water'],No,
+Deep Creek Campground,grsm,NC,-83.43466297,35.46031235,92,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Deerlodge Park Campground,dino,CO,-108.5133041,40.44648076,7,7,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,
+Desert View Campground (Reservations Required),grca,AZ,-111.8226088,36.03893682,49,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/258825
+Devils Alley Hiker-Biker Campsite,choh,MD,-78.411328,39.622156,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Devils Garden Campground,arch,UT,-109.588799,38.77733292,51,0,0,['None'],No,Yes - seasonal,['No water'],Yes - year round,https://www.recreation.gov/camping/campgrounds/234059
+Dingmans Campground,dewa,PA,-74.8736984,41.2110633,136,80,34,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,
+Dog Canyon Campground,gumo,TX,-104.8328472,31.99489835,15,9,0,['None'],No,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/258852
+Dorst Creek Campground,seki,CA,-118.8085026,36.63617121,222,12,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232460
+Dosewallips Campground (Walk-In Only),olym,WA,-123.1647009,47.7373029,14,14,0,['None'],No,No,['No water'],No,
+Doughton Park Campground,blri,NC,-81.15577587,36.42949265,108,75,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/233369
+Douglas Spring,sagu,AZ,-110.606875,32.227981,0,0,0,[],,,[],,
+Dry Creek Group Campground,whis,,-122.5807,40.6253167,2,2,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232455
+Dry Gulch Campground,cure,,-107.1884373,38.48411448,9,0,0,['None'],No,No,['Yes - seasonal'],No,
+Duck Harbor Campground,acad,ME,-68.6535294,44.0277949,5,5,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/264293
+Dump Station,grba,,-114.215989,39.006544,0,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,
+Dunbar Group Site,indu,IN,-87.00171411,41.68266003,1,10,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10177496
+Duncan Bay Campground,isro,MI,-88.52247087,48.15063311,3,1,0,['None'],No,No,"['Water', ' but not potable']",No,
+Duncan Narrows Campground,isro,MI,-88.47796476,48.16931212,3,1,0,['None'],No,No,"['Water', ' but not potable']",No,
+Dundo Group Campground,shen,VA,-78.7216,38.2341,3,3,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/252470
+Dunewood Campground,indu,IN,-86.983786,41.671966,66,66,0,"['Hot - Seasonal', 'Cold- Seasonal', 'Free - Seasonal']",Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/258887
+Dyea Campground,klgo,,-135.3504976,59.5072499,22,3,0,['None'],No,Yes - seasonal,['No water'],No,
+East Chickenbone Campground,isro,MI,-88.69425862,48.07343751,4,3,0,['None'],No,No,"['Water', ' but not potable']",No,
+East Elk Creek Group Campground,cure,,-107.188333,38.484167,1,0,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234057
+East Portal Campground,cure,,-107.649484,38.5270596,15,10,0,['None'],No,No,['Yes - seasonal'],No,
+East Portal Campground,blca,CO,-107.649306,38.526896,15,10,0,['None'],No,No,['Yes - seasonal'],No,
+Echo Bay Campground (Lake Mead),lake,NV,-114.4368979,36.30813734,52,52,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,
+Echo Bay RV Park (Lake Mead),lake,,-114.4319983,36.31007554,55,0,55,[],,,[],,
+Echo Park Campground,dino,CO,-108.9932307,40.52086684,22,17,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/259557
+El Morro Campground,elmo,NM,-108.3368121,35.03689365,9,0,0,['None'],No,No,['Yes - seasonal'],No,
+Elk Creek Campground,cure,,-107.1720668,38.46742028,160,14,27,['None'],Yes - year round,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234053
+Elk Mountain Campground,wica,SD,-103.4882345,43.56547072,61,62,0,['None'],No,No,['Yes - seasonal'],Yes - year round,https://www.recreation.gov/camping/campgrounds/246878
+Elk Prairie Campgound,redw,CA,-124.0294328,41.35982485,75,21,0,"['Hot - Year Round', 'Free - Year Round']",No,Yes - seasonal,['Yes - year round'],Yes - year round,https://www.reservecalifornia.com/CaliforniaWebHome/
+Elkmont Campground,grsm,TN,-83.58274047,35.65875715,220,23,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232487
+Elkmont Group Campground,grsm,TN,-83.58638187,35.65967585,4,4,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232436
+Elliott Key Campground,bisc,,-80.19588509,25.45358451,20,20,0,[],,,[],,
+Emigrant Campground,deva,CA,-117.2277348,36.49652304,10,10,0,['None'],No,No,['Yes - year round'],No,
+Erbie Campground,buff,AR,-93.2149369,36.071327,21,2,0,['None'],No,No,['No water'],No,
+Esker Campsite,kaww,ME,-68.67959099,45.90839601,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Eureka Dunes Campground (Primitive),deva,CA,-117.6809,37.112,7,0,0,['None'],No,No,['No water'],No,
+Evans Campground,laro,WA,-118.0176515,48.69881815,43,3,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/10064643
+Evans Group Site,laro,WA,-118.018959,48.701517,1,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234065
+Evitts Creek Hiker-Biker Campsite,choh,MD,-78.73259,39.616979,1,0,0,['None'],No,No,['Yes - seasonal'],No,
+Exit Glacier Campground,kefj,AK,-149.6181202,60.19096824,12,12,0,['None'],No,No,['Yes - seasonal'],No,
+Fairholme Campground,olym,WA,-123.9181384,48.07008,88,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/259084
+Feldtmann Lake Campground,isro,MI,-89.18297186,47.84857314,7,5,0,['None'],No,No,"['Water', ' but not potable']",No,
+Fifteenmile Creek Campground,choh,,-78.38559865,39.62530305,10,1,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/252968
+Finnegan's Point,klgo,AK,-135.3348773,59.575423,6,6,0,['None'],No,No,"['Water', ' but not potable']",No,http://www.nps.gov/klgo/planyourvisit/permits.htm
+Fish Creek,glac,MT,-113.9829627,48.55013132,178,4,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232493
+Fishing Bridge RV Park,yell,WY,-110.3694723,44.56475525,310,0,310,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://secure.yellowstonenationalparklodges.com/booking/lodging
+Flamingo Campground,ever,FL,-80.938773,25.137212,274,274,41,"['Free - Year Round', 'Hot - Year Round']",Yes - year round,Yes - year round,['Yes - year round'],Yes - year round,https://flamingoeverglades.com/camping/
+Fort Casey State Park,ebla,WA,-122.6740096,48.15686107,0,0,0,[],,,[],,
+Fort Charlotte Backcountry Campgrounds,grpo,MN,-89.8283403,48.0036881,2,2,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.nps.gov/grpo/planyourvisit/fort-charlotte-camping-permit-application.htm
+Fort Ebey State Park,ebla,WA,-101.6289341,35.64741989,0,0,0,[],,,[],,
+Fort Pickens Campground,guis,FL,-87.27597278,30.32320835,200,20,200,['Hot - Year Round'],Yes - year round,Yes - year round,['Yes - year round'],No,
+Fort Spokane Campground,laro,WA,-118.3059187,47.91057784,67,4,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234062
+Fort Spokane Group Sites,laro,WA,-118.311859,47.908742,2,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234069
+Fort Wadsworth Campsite,gate,,-74.054771,40.599998,7,7,0,"['Hot - Seasonal', 'Free - Seasonal']",No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234715
+Frijole Horse Corral Campground,gumo,,-104.7998494,31.89952244,1,1,0,['None'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/10104621
+Frisco Campground,caha,NC,-75.603357,35.237075,117,3,0,"['Cold- Seasonal', 'Free - Seasonal']",No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251430
+Fritch Fortress,lamr,TX,-101.5983113,35.68174578,15,0,0,['Hot - Year Round'],Yes - year round,No,['Yes - year round'],No,
+Fruita Campground,care,UT,-111.2480979,38.28256074,71,7,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/272245
+Furnace Creek Campground,deva,CA,-116.868826,36.4630684,136,45,18,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/232496
+Garden Key Campground,drto,FL,-82.87340644,24.62701096,8,8,0,['None'],No,Yes - year round,['No water'],No,
+Gates of Lodore Campground,dino,CO,-108.8878244,40.72492348,19,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,
+Gateview Campground,cure,,-107.2428749,38.38445788,6,6,0,['None'],No,No,['Yes - seasonal'],No,
+Gator Head,bicy,FL,-81.26775567,26.22381755,9,9,0,['None'],No,Yes - seasonal,['No water'],No,
+Gauley Tailwaters,gari,,-80.88885152,38.21439035,18,0,0,['None'],No,No,['No water'],No,
+Gifford Campground,laro,WA,-118.1427996,48.28585757,42,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/10064687
+Gifford Group Site,laro,WA,-118.143881,48.288223,1,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234067
+Glacier Basin Campground,romo,CO,-105.5956293,40.32980715,150,73,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232462
+Glade Creek Campground,neri,WV,-81.013398,37.829446,11,6,0,['None'],No,No,['No water'],No,
+Glen Campground,pore,CA,-122.7884879,37.98931071,12,12,0,['None'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/233359
+Goat Island Primitive Camping,mnrr,NE,-97.066858,42.765746,2,2,0,['None'],No,No,['No water'],No,
+Gold Bluffs Beach Campground,redw,CA,-124.0698822,41.38221739,26,0,0,"['Hot - Year Round', 'Free - Year Round']",No,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.reservecalifornia.com/CaliforniaWebHome/
+Goodell Creek Campground,noca,WA,-121.267,48.673,19,0,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/246852
+Gorge Lake Campground,noca,,-121.152,48.716,8,8,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10004932
+Governors Landing Campground,amis,,-101.0288632,29.47907637,15,0,0,['None'],No,No,['Yes - year round'],No,https://www.nps.gov/amis/planyourvisit/camping.htm
+Grace Island Campground,isro,MI,-89.21635637,47.88249029,2,0,0,['None'],No,No,"['Water', ' but not potable']",No,
+Grand Pitch Lean-to,kaww,,-68.748256,46.057785,1,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Grand Sable Lake Boat-In Site,piro,,-86.03197349,46.64323548,1,1,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Grandview Sandbar,neri,WV,-81.051906,37.857116,16,6,0,['None'],No,No,['No water'],No,
+Grant Village Campground,yell,WY,-110.563445,44.39425335,430,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://secure.yellowstonenationalparklodges.com/booking/lodging
+Grapevine Campground,bica,,-107.9406716,45.31804611,14,6,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Grass Shack,sagu,AZ,-110.592818,32.183854,0,0,0,[],,,[],,
+Graves Creek Campground,olym,WA,-123.5767954,47.57383109,30,0,0,['None'],No,Yes - seasonal,['No water'],No,
+Great Island Cabin Camp,calo,NC,-76.41222219,34.76055561,23,0,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/233332
+Green Island Primitive Camping,mnrr,,-97.412217,42.8633666,5,5,0,['None'],No,No,['No water'],No,
+Green River Campground,dino,UT,-109.2431757,40.42097747,80,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234777
+Greenbelt Park Campground,gree,MD,-76.89841,38.97908,172,30,0,"['Hot - Year Round', 'Free - Year Round']",Yes - year round,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/232474
+Grey Cliffs Campground,grba,,-114.219121,38.99115,16,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/251958
+Gros Ventre Campground,grte,WY,-110.665884,43.61590783,279,0,39,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/247661
+Group Campsite,care,UT,-111.2514,38.2789,1,0,0,['None'],Yes - year round,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/251709
+Guadalupe Peak Wilderness Campground,gumo,,-104.8515811,31.89349639,5,5,0,['None'],No,No,['No water'],No,https://www.recreation.gov/permits/4675328
+Gulpha Gorge Campground,hosp,AR,-93.0360478,34.5243631,40,0,40,['None'],Yes - year round,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/247559
+Gunter Hill Campground,semo,,-86.452365,32.358663,0,0,0,[],,,[],,
+Guy Sandy Campground,chic,,-97.0523038,34.45618449,40,3,0,['None'],No,No,['Yes - seasonal'],No,
+Haag Cove Campground,laro,WA,-118.1518042,48.56066088,18,6,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/275082
+Halls Crossing RV & Campground,glca,UT,-110.7182014,37.4577994,72,41,31,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.lakepowell.com/rv-camping/halls-crossing-rv-campground/
+Happy Valley Saddle,sagu,AZ,-110.518452,32.154022,0,0,0,[],,,[],,
+Harbor Bay Campground,lamr,,-101.6289832,35.64785605,25,0,0,['None'],No,No,['No water'],No,
+Harlequin Campground,noca,,-120.7137,48.3468,7,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10101324
+Haskell Campsite,kaww,,-68.768473,46.073046,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Haskell Hut,kaww,ME,-68.77007903,46.07962365,1,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Hatchet Lake Campground,isro,MI,-88.85081645,48.02113448,8,5,0,['None'],No,No,"['Water', ' but not potable']",No,
+Hawk Campground,goga,CA,-122.5206461,37.85415754,3,3,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/258815
+Hawk Creek Campground,laro,WA,-118.3249519,47.81516448,20,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/275091
+Hay Bay Campground,isro,MI,-88.93999433,47.93386908,1,1,0,['None'],No,No,"['Water', ' but not potable']",No,
+Haypress Campground,goga,CA,-122.5464545,37.86078512,6,5,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10067346
+Headwaters Campground,grte,WY,-110.6710202,44.10589806,171,34,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/258832
+Heart O' the Hills Campground,olym,WA,-123.4299673,48.03626643,97,0,0,['None'],No,Yes - seasonal,['Yes - year round'],Yes - seasonal,
+Hickory Hill Wilderness Campsite,cuis,,-81.4514,30.8327,4,4,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/253730
+Hidden Valley Campground,jotr,,-116.162737,34.01718844,44,0,0,['None'],No,No,['No water'],No,
+Hite Outpost Adventure Center - Closed until further notice,glca,UT,-110.381007,37.87686,35,21,14,['None'],Yes - year round,No,['Yes - seasonal'],No,
+"Hite Primitive (Dirty Devil, Farley, White Canyon) camping",glca,AZ,-110.399782,37.864131,0,0,0,['None'],No,No,"['Water', ' but not potable']",No,
+Hodgdon Meadow Campground,yose,,-119.8670331,37.79988245,103,68,0,['None'],No,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/232451
+Hoh Campground,olym,WA,-123.9355401,47.8583525,78,0,0,['None'],No,Yes - seasonal,['Yes - year round'],Yes - seasonal,http://www.recreation.gov/camping/campgrounds/247592
+Hole-in-the-Wall Campground,moja,CA,-115.3935652,35.04602382,35,2,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,
+Homestake Campground (Primitive),deva,CA,-117.5738,36.6376,10,0,0,['None'],No,No,['No water'],No,
+Horse Camp,whis,CA,-122.5313889,40.57611111,2,3,0,['None'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/272244
+Horse camping,asis,MD,-75.157471,38.192821,2,6,0,"['Cold- Seasonal', 'Free - Seasonal']",Yes - year round,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,
+Horsepen Branch Hiker-Biker Campsite,choh,MD,-77.398038,39.06938,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Horseshoe Bend Campground,bica,WY,-108.26,44.96,68,0,28,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,http://www.horseshoebend-marina.com
+Horseshoe Bend Hiker-Biker Campsite,choh,MD,-77.774341,39.486903,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Hosmer Grove Campground,hale,HI,-156.237592,20.768155,6,6,0,['None'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/10068557
+Houchin Ferry Campground,maca,KY,-86.2377215,37.2016901,12,12,0,['None'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/258992
+Hovenweep Campground,hove,CO,-109.070815,37.38320327,31,0,0,['None'],No,No,['Yes - seasonal'],No,
+Hozomeen Campground,noca,,-121.0711,48.9871,75,0,0,['None'],No,No,['Yes - seasonal'],No,
+Huckleberry Hill Hiker-Biker Campsite,choh,MD,-77.75747,39.34152,0,0,0,[],,,[],,
+Huginnin Cove Campground,isro,MI,-89.17647822,47.93427202,5,5,0,['None'],No,No,"['Water', ' but not potable']",No,
+Hunters Campground,laro,WA,-118.231332,48.1255473,37,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/10064730
+Hunters Group Sites,laro,WA,-118.230877,48.12544,3,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234068
+Hurricane River Campground,piro,MI,-86.1661587,46.663953,21,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/247603
+Igloo Creek,dena,,-149.5833581,63.60969752,7,7,0,['None'],No,No,['No water'],No,https://www.reservedenali.com
+Indian Cove Campground,jotr,CA,-116.1588536,34.09346715,101,0,0,['None'],No,Yes - seasonal,['No water'],No,https://www.recreation.gov/camping/campgrounds/232472
+Indian Creek Campground,yell,WY,-110.7360686,44.88702325,70,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/259304
+Indian Flats Hiker-Biker Campsite,choh,MD,-77.462711,39.233516,0,0,0,[],,,[],,
+Indian Well Campground,labe,CA,-121.5041447,41.71747074,43,0,0,['None'],No,Yes - seasonal,['Yes - year round'],Yes - seasonal,
+Indigo Neck Hiker-Biker Campsite,choh,MD,-78.358666,39.626697,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Intermediate Lake Campground,isro,MI,-88.72265855,48.0337769,3,3,0,['None'],No,No,"['Water', ' but not potable']",No,
+Irons Mountain Hiker-Biker Campsite,choh,MD,-78.735584,39.587479,0,0,0,['None'],No,No,['Yes - seasonal'],No,
+Island Mine Campground,isro,MN,-89.03997478,47.93022395,6,4,0,['None'],No,No,"['Water', ' but not potable']",No,
+Island in the Sky (Willow Flat) Campground,cany,UT,-109.8881293,38.38338072,12,0,0,['None'],No,No,['No water'],No,
+Jedediah Smith Campground,redw,CA,-124.0864474,41.79572648,86,22,0,['Coin-Operated - Year Round'],Yes - year round,Yes - seasonal,['Yes - year round'],Yes - seasonal,http://www.parks.ca.gov/?page_id=413
+"Jeff Busby Campground, Milepost 193.1",natr,MS,-89.26737098,33.41716405,18,0,0,['None'],No,Yes - seasonal,['Yes - year round'],No,
+Jenny Lake Campground,grte,WY,-110.7193935,43.7552632,61,51,0,"['Coin-Operated - Seasonal', 'None']",No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/247664
+Jones Bay Campground,laro,WA,-118.5828334,47.91989955,9,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/275092
+Jordan Junction Hiker-Biker Campsite,choh,MD,-77.85283,39.609192,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Julian Price Park Campground,blri,NC,-81.76526987,36.12034935,190,90,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234037
+Jumbo Rocks Campground,jotr,CA,-116.0592518,33.99075645,124,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/272300
+Juniper Basin,sagu,AZ,-110.644513,32.182818,0,0,0,[],,,[],,
+Juniper Campground,thro,,-103.3331568,47.59524746,50,9,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/72481
+Juniper Family Campground,band,NM,-106.2790454,35.79533819,52,5,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - year round'],Yes - year round,https://www.recreation.gov/camping/campgrounds/233395
+Juniper Lake Campground,lavo,CA,-121.2964616,40.44964866,18,0,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/234524
+Kalaloch Campround,olym,,-124.3750741,47.61270536,170,0,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232464
+Kamloops Island Campground,laro,WA,-118.1170088,48.67832415,17,9,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/275029
+Katahdin Brook Lean-to,kaww,,-68.76288037,45.92040076,1,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Katherine Landing Campground (Lake Mohave),lake,,-114.5567772,35.22317569,0,0,0,[],,,[],,
+Katherine Landing RV Park (Lake Mohave),lake,,-114.5620069,35.22234391,0,0,0,[],,,[],,
+Kendesnii Campground,wrst,AK,-143.258776,62.52982,10,0,0,['None'],No,No,['No water'],No,
+Kettle Falls Campground,laro,WA,-118.1235713,48.60151765,74,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234061
+Kettle River Campground,laro,WA,-118.1226873,48.71593087,13,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/275028
+Killiansburg Cave Hiker-Biker Campsite,choh,MD,-77.796583,39.459202,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Kintla Lake,glac,MT,-114.34593,48.93574521,13,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Kirby Cove Campground,goga,CA,-122.4903935,37.82790212,6,5,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/232491
+Kulanaokuaiki,havo,HI,-155.2740764,19.34366665,9,9,0,['None'],No,No,['No water'],No,
+Kyles Landing,buff,AR,-93.2807539,36.0557786,33,33,0,['None'],No,No,['Yes - seasonal'],No,
+Kīpahulu Campground,hale,HI,-156.044492,20.659705,9,9,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10068563
+Lake Fork Campground,cure,,-107.3269812,38.45482531,90,4,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234054
+Lake Mead RV Village (Lake Mead),lake,,-114.800453,36.03503,115,0,115,[],,,[],,https://lakemeadmohaveadventures.com/lake-mead-rv-village/
+Lake Richie Campground,isro,MI,-88.68736052,48.05134221,6,4,0,['None'],No,No,"['Water', ' but not potable']",No,
+Lake Richie Canoe Campground,isro,MI,-88.70018996,48.04382454,3,3,0,['None'],No,No,"['Water', ' but not potable']",No,
+Lake Whittlesey Campground,isro,MI,-88.70708523,48.00762855,3,3,0,['None'],No,No,"['Water', ' but not potable']",No,
+Lakeview Campground,noca,,-120.6544,48.3079,9,9,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/10101333?tab=info
+Lane Cove Campground,isro,MI,-88.55767855,48.14490683,5,5,0,['None'],No,No,"['Water', ' but not potable']",No,
+Las Vegas Bay Campground (Lake Mead),lake,NV,-114.8725697,36.12784459,85,85,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,
+Lava Flow Campground,crmo,ID,-113.5591319,43.46070031,42,0,0,['None'],No,No,['Yes - seasonal'],No,
+Lava Point Campground,zion,,-113.0328457,37.38387909,6,6,0,['None'],No,Yes - seasonal,['No water'],No,
+Lees Ferry Campground,glca,AZ,-111.6062747,36.85934702,54,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - year round'],No,
+Leopards Mill Hiker-Biker Campsite,choh,MD,-78.2401552,39.65192764,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Lewis Lake Campground,yell,WY,-110.6279873,44.28220565,85,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/259309
+Lewis Mountain Campground,shen,VA,-78.478096,38.43556,30,0,0,['Coin-Operated - Seasonal'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,
+Licking Creek Hiker-Biker Campsite,choh,MD,-78.048776,39.650294,0,0,0,[],,,[],,
+Linville Falls Campground,blri,NC,-81.93262407,35.96715245,64,14,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234036
+Little Beaver Lake Campground,piro,MI,-86.3638,46.5575,8,0,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/246856
+Little Pool Hiker-Biker Campsite,choh,MD,-78.113125,39.684776,0,0,0,[],,,[],,
+Little Todd Campground,isro,MI,-88.92666555,48.02025596,4,4,0,['None'],No,No,"['Water', ' but not potable']",No,
+Lizard Creek Campground,grte,WY,-110.6886593,44.00346925,60,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/247785
+Locust Grove Group Sites,laro,WA,-118.114979,48.592901,2,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234066
+Lodgepole Campground,seki,CA,-118.726883,36.60577263,214,76,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232461
+Loft Mountain Campground,shen,VA,-78.670701,38.246415,207,50,0,['Coin-Operated - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232433
+Logging Creek,glac,MT,-114.1916556,48.69845476,7,0,0,['None'],No,No,['No water'],No,
+Lone Rock Beach Primitive Camping Area,glca,AZ,-111.5403466,37.01615993,5000,0,0,"['Cold- Seasonal', 'Free - Seasonal']",Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Long Pine Key Campground,ever,FL,-80.65696978,25.39790023,108,108,0,"['Free - Year Round', 'Hot - Year Round']",Yes - year round,Yes - seasonal,['Yes - year round'],No,https://flamingoeverglades.com/camping/
+Longleaf Campground,cong,,-80.82739767,33.83571775,14,14,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10190876
+Longs Peak Campground,romo,,-105.5577043,40.27479364,26,26,0,['None'],No,Yes - seasonal,['No water'],No,
+Look Rock Campground,grsm,TN,-83.93614247,35.63690475,68,5,10,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/10207636
+"Lost Creek Campground, elevation 6,000 feet (1,829 meters)",crla,OR,-122.0387112,42.87974939,16,16,0,['None'],No,No,['No water'],No,
+Lost Creek Group Campground,lavo,CA,-121.5177188,40.56184114,8,0,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234042
+Lower Goodell Creek Group Campground,noca,WA,-121.2713645,48.67657476,2,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/234088
+Lower Lehman Campground,grba,,-114.23798,39.01737,11,0,0,['None'],No,No,['No water'],No,
+Lower Pines Campground,yose,CA,-119.5663138,37.73946589,73,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232450
+Lower Scorpion Campground,gicl,,-108.25757,33.229944,0,0,0,['None'],No,Yes - seasonal,['Yes - year round'],No,
+Lower St. Croix District,sacn,,-92.760328,45.253281,19,19,0,['None'],No,No,['No water'],No,
+Lowney Creek Group Backpacking Site,piro,,-86.344702,46.557203,1,1,0,[],,,[],,https://www.recreation.gov/camping/campgrounds/256367
+Lowney Creek Individual Backpacking Sites,piro,,-86.33977,46.558462,4,4,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Lunksoos Campsites,kaww,ME,-68.613925,45.908436,7,7,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Lunksoos Mountain Lean-To,kaww,,-68.70169967,45.95698157,1,0,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/10145539
+Madison Campground,yell,WY,-110.8613027,44.64542155,276,117,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://secure.yellowstonenationalparklodges.com/booking/lodging
+Mahogany Flat Campground (Primitive),deva,CA,-117.068377,36.23,9,0,0,['None'],No,No,['No water'],No,
+Malaquite Campground,pais,TX,-97.296189,27.43023,48,6,0,"['Cold - Year Round', 'Free - Year Round']",Yes - year round,Yes - seasonal,['Yes - year round'],No,
+Malone Bay Campground,isro,MI,-88.8072267,47.98524426,7,0,0,['None'],No,No,"['Water', ' but not potable']",No,
+Mammoth Campground,yell,WY,-110.6932316,44.97360955,85,0,0,['None'],No,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/247571
+Mammoth Cave Campground,maca,KY,-86.0970431,37.1821894,111,0,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232467
+Manning Camp,sagu,AZ,-110.554542,32.207386,6,6,0,['None'],No,Yes - seasonal,['Yes - year round'],No,
+Many Glacier,glac,MT,-113.6776197,48.79649572,109,8,0,['Coin-Operated - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251869
+Manzanita Lake Campground,lavo,CA,-121.5631866,40.52785157,179,30,0,"['Hot - Seasonal', 'Coin-Operated - Seasonal']",Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234039
+Maple Springs Group Campground,maca,KY,-86.136092,37.204205,7,0,7,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232468
+Marble Quarry Hiker-Biker Campsite,choh,MD,-77.492708,39.179558,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Marcus Island Campground,laro,WV,-118.0573683,48.66873219,25,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/274993
+Marcus Wilderness Campground,gumo,,-104.8768541,31.98117115,5,5,0,['None'],No,No,['No water'],No,https://www.recreation.gov/permits/4675328
+Marsden Tract Group Campground,choh,,-77.21484911,38.97679702,6,6,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251544
+Masse Homestead Group Backpacking Site,piro,,-86.09567642,46.64680437,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/256367
+Masse Homestead Individual Backpacking Sites,piro,,-86.090932,46.647693,3,3,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/256367
+Mather Campground - South Rim,grca,AZ,-112.1184973,36.04918081,327,55,0,['Hot - Year Round'],Yes - year round,Yes - year round,['Yes - year round'],Yes - year round,https://www.recreation.gov/camping/campgrounds/232490
+Mathews Arm Campground,shen,VA,-78.296388,38.763144,165,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232432
+Maumee South,buff,AR,-92.6356458,36.039486,0,0,0,['None'],No,No,['No water'],No,
+Mazama Campground,crla,OR,-122.1677826,42.86862146,214,121,18,['Coin-Operated - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.travelcraterlake.com/lodging-camping/mazama-campground/
+McBride Canyon and Mullinaw Creek Campgrounds,lamr,,-101.759431,35.529449,40,0,0,['None'],No,No,['No water'],No,
+McCargoe Cove Campground,isro,MI,-88.70934935,48.08719605,12,3,0,['None'],No,No,"['Water', ' but not potable']",No,
+McKittrick Ridge Wilderness Campground,gumo,,-104.8082269,31.97434773,8,8,0,['None'],No,No,['No water'],No,https://www.recreation.gov/permits/4675328
+McMillan Woods Youth Campground,gett,PA,-77.246171,39.821005,10,10,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251763
+Mccoys Ferry Campground,choh,,-77.96663984,39.60923039,13,0,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/252969
+Meadow Creek Campground,neri,WV,-80.92009,37.79667,26,26,0,['None'],No,No,['No water'],No,
+Medano Pass Primitive Road Campsites,grsa,,-105.495654,37.803519,21,21,0,['None'],No,No,['Yes - seasonal'],No,
+Medicine Creek Campground,bica,WY,-108.2043116,45.11018066,5,5,0,['None'],No,No,['No water'],No,
+"Meriwether Lewis Campground, Milepost 385.9",natr,TN,-87.45568517,35.52249185,31,0,0,['None'],No,Yes - seasonal,['Yes - year round'],No,
+Merritt Lane Campground,isro,MI,-88.42965713,48.18459316,2,1,0,['None'],No,No,"['Water', ' but not potable']",No,
+Mescalero Wilderness Campground,gumo,,-104.847985,31.9526879,8,8,0,['None'],No,No,['No water'],No,https://www.recreation.gov/permits/4675328
+Mesquite Spring Campground,deva,CA,-117.3678256,36.96328198,40,0,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,
+Mid-Hills Campground,moja,CA,-115.435625,35.13148092,26,26,0,['None'],No,No,['No water'],No,
+Middle St. Croix,sacn,,-92.781074,45.773341,57,57,0,['None'],No,No,"['Water', ' but not potable']",No,
+Midway Campground,bicy,FL,-80.989444,25.851926,36,10,26,['None'],Yes - year round,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/246892
+Mill Creek Campground,redw,CA,-124.0977846,41.70272417,145,22,0,"['Hot - Seasonal', 'Coin-Operated - Seasonal']",Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.reservecalifornia.com/CaliforniaWebHome/
+Mitchell's Landing,bicy,FL,-80.93059818,25.75644965,11,0,0,['None'],No,Yes - seasonal,['No water'],No,https://www.recreation.gov
+Mohican Outdoor Center,dewa,NJ,-75.0010072,41.0350165,16,15,0,['Hot - Year Round'],No,Yes - year round,['Yes - year round'],No,https://reservations.outdoors.org/
+Monument Lake,bicy,FL,-81.11313148,25.86846635,36,10,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/246894
+Mora Campground,olym,WA,-124.6059374,47.91686101,94,0,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/247591
+Moraine Campground,seki,CA,-118.6610568,36.78521626,121,0,0,['None'],No,No,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/10044761
+Moraine Park Campground,romo,CO,-105.6000662,40.3606615,244,101,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232463
+Morefield Campground,meve,CO,-108.4179125,37.30149927,267,85,15,"['Hot - Seasonal', 'Free - Seasonal']",Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.visitmesaverde.com/lodging-camping/morefield-campground/
+Moskey Basin Campground,isro,MI,-88.64516328,48.06298075,10,2,0,['None'],No,No,"['Water', ' but not potable']",No,
+Mosquito River Group Backpacking Site,piro,,-86.49380207,46.52260133,1,1,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Mosquito River Individual Backpacking Sites,piro,,-86.492008,46.527061,5,5,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Mount Pisgah,blri,NC,-82.75691997,35.40286805,125,64,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234182
+NPS Priest Rock Public Use Cabin,lacl,,154.177,60.30933331,0,0,0,[],,,[],,
+Namekagon District,sacn,,-91.815991,45.905263,67,67,0,['None'],No,No,"['Water', ' but not potable']",No,
+Natural Bridges Campground,nabr,UT,-109.9841931,37.60921844,13,0,0,['None'],No,No,['No water'],No,
+Naval Live Oaks Youth Group Camping,guis,FL,-87.14231198,30.36898925,1,0,0,[],,,[],,
+Newhalem Creek Campground,noca,WA,-121.261,48.671,107,13,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234060/campsites
+Norris Campground,yell,WY,-110.6936151,44.73784855,112,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,
+North Campground,brca,UT,-112.167922,37.638096,100,46,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234058
+North Desor Campground,isro,MI,-88.99386541,47.98085044,3,3,0,['None'],No,No,"['Water', ' but not potable']",No,
+North Fork Campground,olym,WA,-123.6508033,47.56985202,9,0,0,['None'],No,No,['No water'],No,
+North Gorge Campground,laro,WA,-118.0032886,48.78647567,12,6,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/274908
+North Mountain Hiker-Biker Campsite,choh,MD,-77.959636,39.610663,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+North Pines Campground,yose,CA,-119.5650308,37.74041634,80,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232449
+North Rim Campground,blca,CO,-107.7094278,38.58518333,13,0,0,['None'],No,No,['Yes - seasonal'],No,
+North Rim Campground,grca,AZ,-112.0599744,36.20869016,87,12,0,"['Hot - Seasonal', 'Coin-Operated - Seasonal']",Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232489
+Nāmakanipaio,havo,HI,-155.2958787,19.42537365,16,16,0,['None'],No,No,['Yes - year round'],Yes - year round,
+Oak Ridge Campground,prwi,VA,-77.41609902,38.60042022,100,33,0,"['Hot - Year Round', 'Free - Year Round']",No,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/233379
+Oceanside Drive-in Campground,asis,MD,-75.1538651,38.2016106,16,0,0,"['Cold- Seasonal', 'Free - Seasonal']",Yes - year round,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232507
+Oceanside Group Campground,asis,MD,-75.1524,38.20377,5,5,0,"['Cold- Seasonal', 'Free - Seasonal']",Yes - year round,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232507
+Oceanside Walk-in campground,asis,MD,-75.1564668,38.1948063,21,21,0,"['Cold- Seasonal', 'Free - Seasonal']",Yes - year round,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232507
+Ocracoke Campground,caha,NC,-75.92241526,35.12571784,135,0,0,"['Cold - Year Round', 'Free - Year Round']",Yes - year round,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/232504/availability
+Ohanapecosh Campground,mora,,-121.5668482,46.73599667,179,47,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232465
+Opequon Junction Hiker-Biker Campsite,choh,MD,-77.860112,39.515933,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Oregon Inlet Campground,caha,NC,-75.545,35.80027781,107,30,47,"['Hot - Year Round', 'Free - Year Round']",Yes - year round,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/251431
+Otter Creek,blri,VA,-79.33743607,37.57569395,68,45,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251534
+Owens Creek Campground,cato,MD,-77.48664256,39.65968699,50,0,0,"['Hot - Seasonal', 'Free - Seasonal']",No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/247762?q=Owens%20Creek%20Campground
+Ozark Campground,buff,AR,-93.1598567,36.0640098,31,13,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,
+Ozette Campground,olym,WA,-124.6676932,48.15324009,15,0,0,['None'],No,No,['No water'],No,
+Paul Grist State Park,semo,,-86.99976,32.591452,0,0,0,[],,,[],,
+Paw Paw Tunnel Campground,choh,,-78.46148085,39.5442361,10,10,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/252971
+Peaks of Otter Campground,blri,VA,-79.60497847,37.44338475,139,88,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/233403
+Pebble Creek Campground,yell,WY,-110.1138084,44.91698135,27,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/259307
+Peltier Bridge,whis,CA,-122.5518167,40.5857833,9,9,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/272248
+Pickerel Cove Campground,isro,MI,-88.65218294,48.12451696,1,1,0,['None'],No,No,"['Water', ' but not potable']",No,
+Pigmans Ferry Hiker-Biker Campsite,choh,MD,-78.650428,39.538958,0,0,0,[],,,[],,
+Pine Bluff Individual Backpacking Sites,piro,,-86.328552,46.586272,5,5,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Pine Springs Campground,gumo,TX,-104.8263407,31.89526173,35,20,0,['None'],No,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/258851
+Pine Top Wilderness Campground,gumo,,-104.845802,31.91853982,8,8,0,['None'],No,No,['No water'],No,https://www.recreation.gov/permits/4675328
+Pinecrest,bicy,FL,-80.91806307,25.76155555,4,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/246895
+Pink Jeep,bicy,FL,-81.29514338,26.21633105,9,9,0,['None'],No,Yes - seasonal,['No water'],No,
+Pinnacles Campground,pinn,CA,-121.148968,36.4898446,134,83,25,"['Hot - Year Round', 'Coin-Operated - Year Round']",Yes - year round,Yes - year round,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234015
+Piñon Flats Campground,grsa,CO,-105.5047031,37.74493686,91,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234685
+Platte River Campground,slbe,MI,-86.119114,44.71551,179,0,96,"['Hot - Year Round', 'Free - Year Round']",Yes - seasonal,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232458
+Pleasant Camp,klgo,AK,-135.2937064,59.6385221,11,11,0,['None'],No,No,"['Water', ' but not potable']",No,http://www.nps.gov/klgo/planyourvisit/permits.htm
+Plum Creek Campgrounds,lamr,TX,-102.78333,35.516667,45,0,0,['None'],No,No,['No water'],No,
+Point Supreme Campground,cebr,,-112.8309267,37.61038506,25,7,0,"['Hot - Seasonal', 'Free - Seasonal']",No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/233392
+Pond Pitch Campsite,kaww,,-68.75487845,46.06332045,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Ponderosa,band,NM,-106.3567585,35.83285566,2,2,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/233394
+Ponderosa Campground,cure,,-107.3148994,38.52570805,28,10,0,['None'],No,No,['Yes - seasonal'],No,
+Poplar Grove Youth Group Tent Campground,cato,,-77.47561994,39.65582913,3,3,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232503?q=Poplar%20Grove%20Youth%20Group%20Campground
+Popple Campground - South Manitou Island,slbe,NI,-86.116205,45.046024,7,7,0,['None'],No,No,['No water'],No,
+Porcupine Bay Campground,laro,,-118.1751354,47.89459316,20,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/10064768
+Porcupine Flat Campground,yose,,-119.5656918,37.80823976,52,52,0,['None'],No,No,['No water'],No,
+Potato Patch Individual Backpacking Sites,piro,,-86.530046,46.497249,3,3,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/256367
+Potomac Forks Hiker-Biker Campsite,choh,MD,-78.588975,39.53094,0,0,0,[],,,[],,
+Potwisha Campground,seki,,-118.8008354,36.51650784,42,0,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/249979
+Prairie Creek,semo,,-86.7701881,32.3336736,0,0,0,[],,,[],,
+Primitive campsites at Cathedral Campground,care,UT,-111.3673,38.4746,6,0,0,['None'],No,No,['No water'],No,
+Primitive campsites at Cedar Mesa Campground,care,UT,-111.0846,38.0073,5,0,0,['None'],No,No,['No water'],No,
+Prince William Forest RV Campground,prwi,VA,-77.350905,38.603929,72,1,72,['Hot - Year Round'],Yes - year round,Yes - year round,['Yes - year round'],Yes - year round,
+Pulltite Campground,ozar,MO,-91.46537304,37.33946674,55,3,0,"['Free - Seasonal', 'Hot - Year Round']",No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234357
+Purple Point Campground,noca,,-120.6581,48.3131,6,6,0,['None'],No,No,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/10101344
+Purslane Run Hiker-Biker Campsite,choh,MD,-78.464149,39.535244,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Quartz Creek,glac,MT,-114.2242733,48.72260991,7,0,0,['None'],No,No,['No water'],No,
+Queets Campground,olym,WA,-124.0177769,47.62599463,20,0,0,['None'],No,No,['No water'],No,
+Rainbow Park Campground,dino,UT,-109.1744316,40.49569307,4,4,0,['None'],No,No,['No water'],No,
+Red Creek Campground,cure,,-107.2319898,38.47937324,2,0,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234056
+Riley Creek,dena,AK,-148.894019,63.73335984,142,20,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,http://www.reservedenali.com
+Rio Grande Village Campground,bibe,,-102.9556345,29.1801945,93,0,0,['Coin-Operated - Year Round'],Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/234035
+Rio Grande Village RV,bibe,,-102.9638121,29.18316896,25,0,25,['Coin-Operated - Year Round'],Yes - year round,Yes - year round,['Yes - year round'],No,https://www.chisosmountainslodge.com/rv-park-and-campground
+Rising Sun,glac,MT,-113.5226844,48.69453217,84,0,0,['Coin-Operated - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Rivers Bend Group Campground,dewa,NJ,-74.9666325,41.0961181,5,0,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/258706
+Rock Creek Campground,obed,,-84.66287613,36.06963727,11,11,0,['None'],No,Yes - year round,['No water'],No,https://www.recreation.gov/camping/campgrounds/253502
+Rock Creek Campground,chic,,-96.98615069,34.49802361,100,0,0,['None'],Yes - seasonal,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/234051
+Rock Harbor Campground,isro,MI,-88.48932435,48.14543517,23,11,0,"['Hot - Seasonal', 'Coin-Operated - Seasonal']",Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Rocky Knob Campground,blri,VA,-80.34939137,36.81298805,106,25,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/233324
+"Rocky Springs Campground, Milepost 54.8",natr,MS,-90.79884008,32.08743115,22,0,0,['None'],No,Yes - seasonal,['Yes - year round'],No,
+Rosita Flats,lamr,,-101.24451,35.3647,75,0,0,['None'],No,No,['No water'],No,
+Rough Canyon Campground,amis,,-100.97746,29.573599,4,0,0,['None'],No,No,['No water'],No,
+Round Spring Campground,ozar,MO,-91.4068743,37.2795173,55,2,6,"['Free - Seasonal', 'Hot - Year Round']",Yes - year round,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234045
+Roundup Group Horse Camp,thro,,-103.5055556,47.0069444,1,0,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251161
+Rush Campground,buff,AR,-92.5504512,36.1227473,12,12,0,['None'],No,No,['Yes - seasonal'],No,
+Ryan Campground,jotr,CA,-116.1543904,33.98305834,32,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10056207
+Saddlehorn Campground,colm,CO,-108.7325753,39.10560329,80,0,0,['None'],No,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/234778
+Sage Creek Campground,badl,SD,-102.414254,43.893146,22,0,0,['None'],No,No,['No water'],No,
+Saline Valley Campground (Primitive),deva,,-117.7738,36.8056,15,0,0,[],,,[],,
+San Miguel Island Campground,chis,CA,-120.349462,34.0407938,9,9,0,['None'],No,Yes - year round,['No water'],No,https://www.recreation.gov/camping/campgrounds/232501
+San Pedro Campground,amis,,-100.9519744,29.4676823,41,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10182617
+Sanctuary River,dena,AK,-149.4737484,63.72255876,7,7,0,['None'],No,No,['No water'],No,
+Sandbank Stream Campground,kaww,ME,-68.67453987,45.86275726,3,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Sandy Hook Camp Ground,gate,,-73.9950964,40.4500495,20,20,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234714
+Sanford Yake Campground,lamr,,-101.333084,35.413937,51,0,0,[],,,[],,
+Santa Barbara Island Campground,chis,CA,-119.0294612,33.48000172,10,10,0,['None'],No,Yes - year round,['No water'],No,https://www.recreation.gov/camping/campgrounds/232500
+Santa Cruz Island Del Norte Backcountry Campground,chis,CA,-119.6603405,34.01107497,4,4,0,['None'],No,Yes - year round,['No water'],No,https://www.recreation.gov/camping/campgrounds/232499
+Santa Cruz Island Scorpion Canyon Campground,chis,CA,-119.5611254,34.04800649,31,31,0,['None'],No,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/232498
+Santa Rosa Island Backcountry Beach Camping,chis,CA,-120.1149422,33.88529551,30,30,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/261700
+Santa Rosa Island Campground,chis,CA,-120.0474132,33.99186391,15,15,0,['None'],No,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/232497
+Savage River,dena,AK,-149.2616553,63.71530418,32,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,http://www.reservedenali.com
+Schoodic Woods Campground,acad,ME,-68.0665938,44.380063,89,13,78,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251833
+Sea Camp Campground,cuis,,-81.4637253,30.7636396,18,18,0,['Cold - Year Round'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/253730
+Seawall Campground,acad,ME,-68.3051439,44.2415647,202,43,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234674
+Sentinel Campground,seki,CA,-118.6720362,36.79032772,82,0,0,['None'],No,No,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/253917
+Sevenmile Creek Group Backpacking Site,piro,,-86.25810097,46.61946398,1,1,0,[],,,[],,https://www.recreation.gov/camping/campgrounds/256367
+Sevenmile Creek Individual Backpacking Sites,piro,,-86.258742,46.619268,5,5,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Sheep Camp,klgo,AK,-135.2678594,59.6590711,27,27,0,['None'],No,No,"['Water', ' but not potable']",No,http://www.nps.gov/klgo/planyourvisit/permits.htm
+Sheep Camp,whis,CA,-122.5948084,40.59987622,4,4,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/272243
+Sheep Creek Campground,seki,CA,-118.6805967,36.79213706,111,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/10044765
+Sheep Pass Group Campground,jotr,CA,-116.1205006,34.00009094,6,6,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/232470
+Shumard Canyon Wilderness Campground,gumo,,-104.8870566,31.8887274,5,5,0,['None'],No,No,['No water'],No,https://www.recreation.gov/permits/4675328
+Signal Mountain Campground,grte,WY,-110.613487,43.84147805,81,4,25,['Coin-Operated - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/247663
+Siskiwit Bay Campground,isro,MI,-88.99876148,47.89044497,9,4,0,['None'],No,No,"['Water', ' but not potable']",No,
+Sky Campground,pore,CA,-122.8288274,38.03991511,12,12,0,['None'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/233359
+Slough Creek Campground,yell,WY,-110.3068792,44.94884665,16,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/259310
+Smokemont Campground,grsm,NC,-83.31162547,35.55645005,142,0,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/232486
+Smokemont Group Campground,grsm,TN,-83.31280157,35.55980785,0,0,0,[],,,[],,
+Smoky Mountain Campground,ciro,ID,-113.651634,42.0755503,38,0,38,['Hot - Seasonal'],Yes - year round,Yes - seasonal,['Yes - seasonal'],No,https://www.reserveamerica.com/explore/castle-rocks-state-park/ID/315045/overview
+Snag Cove Campground,laro,WA,-118.0604181,48.73370743,9,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/275027
+Snake Creek Primitive Campgrounds,grba,,-114.251512,38.925381,12,12,0,['None'],No,No,['No water'],No,
+Sorrel Ridge Hiker-Biker Campsite,choh,MD,-78.453213,39.571699,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+South Beach Campground,olym,WA,-124.3613879,47.5660234,55,0,0,['None'],No,Yes - seasonal,['No water'],No,
+South Campground,zion,,-112.9841916,37.2037426,117,8,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/272266
+South Core Banks -- Beach camping,calo,NC,-76.41222219,34.76055561,1,0,0,['None'],No,No,['No water'],No,
+South Fork Campground,seki,CA,-118.7654698,36.34998443,10,10,0,['None'],No,No,['No water'],No,
+South Lake Desor Campground,isro,MI,-88.97153792,47.9706861,10,7,0,['None'],No,No,"['Water', ' but not potable']",No,
+South Rim Campground,blca,CO,-107.6894241,38.54381032,88,0,23,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234052
+Southwest Walk-In Campground,lavo,CA,-121.532641,40.43660042,21,21,0,['None'],No,No,['Yes - year round'],No,
+Split Mountain Group Campground,dino,UT,-109.2523126,40.44052796,4,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234751
+Sprague Creek Campground,glac,MT,-113.8854134,48.60561742,25,0,0,['None'],Yes - seasonal,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/poi/258795
+Spring Canyon Campground,laro,WA,-118.9400495,47.93304083,68,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234064
+Spring Canyon Group Sites,laro,WA,-118.94087,47.934625,2,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234071
+Spring Creek Campground,buff,AR,-92.5844677,36.0299779,12,12,0,['None'],No,No,['No water'],No,
+Spring Gap Campground,choh,,-78.71788171,39.56484434,14,0,0,['None'],No,No,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/252967
+Spud Rock Spring,sagu,AZ,-110.532126,32.204179,0,0,0,[],,,[],,
+Spur 406 Campground,amis,,-101.0204372,29.55055158,6,0,0,['None'],No,No,['No water'],No,
+St. Mary,glac,MT,-113.4424052,48.75167903,148,7,0,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232492
+Stafford Beach Campground,cuis,,-81.45139,30.80667,10,10,0,['Cold - Year Round'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/253730
+Stair Falls Campsite,kaww,,-68.77790468,46.0872701,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Staircase Campground,olym,WA,-123.3296681,47.51537313,49,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,
+Stanton Creek Primitive Camping Area,glca,UT,-110.699117,37.498985,0,0,0,['None'],No,No,"['Water', ' but not potable']",No,
+Station Camp Campground,biso,TN,-84.63521727,36.54584975,24,24,24,['Hot - Seasonal'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/10004358?q=Station%20Camp%20Campground
+Steel Creek Campground,buff,AR,-93.3463189,36.0400289,40,26,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/10001451
+Stevens Creek Campground,cure,,-107.0911248,38.48692338,53,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234055
+Stickpile Hill Hiker-Biker Campsite,choh,MD,-78.397693,39.583599,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Stone Cliff,neri,WV,-81.0638,37.933636,7,6,0,['None'],No,No,['No water'],No,
+Stovepipe Wells Campground,deva,CA,-117.148116,36.60788588,190,28,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - year round,
+Summit Lake North Campground,lavo,CA,-121.4249494,40.4946208,46,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234041?q=Summit%20Lake%20North
+Summit Lake South Campground,lavo,CA,-121.4246483,40.49041219,49,23,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/234040
+Sunset Campground,deva,CA,-116.8638185,36.45884381,230,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Sunset Campground,seki,CA,-118.9651803,36.73736844,158,0,0,['None'],No,No,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234752
+Sunset Campground,brca,UT,-112.174839,37.62228683,100,50,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campsites/8274
+Sunset View Campground,nava,AZ,-110.542428,36.67252148,0,0,0,['None'],No,No,['Yes - year round'],No,
+Swains Lock Hiker-Biker Campsite,choh,MD,-77.244579,39.031002,5,5,0,['None'],No,No,['Yes - seasonal'],No,
+Tamarack Flat Campground,yose,,-119.736234,37.75171753,52,52,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10083845
+Tejas Wilderness Campground,gumo,,-104.8504885,31.93685975,5,5,0,['None'],No,No,['No water'],No,https://www.recreation.gov/permits/4675328
+Teklanika River,dena,AK,-149.5809738,63.67049835,53,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,http://www.reservedenali.com
+Temple Bar Campground (Lake Mead),lake,NV,-114.3248523,36.03031829,71,71,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,
+Temple Bar RV Park (Lake Mead),lake,,-114.3227928,36.03413716,0,0,0,[],,,[],,
+Texas Springs Campground,deva,CA,-116.8526669,36.45889894,92,26,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,
+Thayer Campground,neri,WV,-81.032211,37.902,4,4,0,['None'],No,No,['No water'],No,
+The Colonies RV and Travel Park,fomr,VA,-76.298918,37.022068,47,25,22,"['Hot - Year Round', 'Free - Year Round']",Yes - year round,Yes - year round,['Yes - year round'],Yes - year round,https://v3.bookyoursite.com/colonies/reservation/
+The Needles Campground,cany,UT,-109.8012163,38.14659583,29,5,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/251535
+The Point Campground,chic,,-97.0198058,34.45951441,55,0,22,['Hot - Year Round'],Yes - year round,Yes - year round,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/234048
+Thorndike Campground (Primitive),deva,CA,-117.072172,36.236917,6,0,0,['None'],No,No,['No water'],No,
+Three Mile Campground,isro,MI,-88.52961949,48.12385213,15,4,0,['None'],No,No,"['Water', ' but not potable']",No,
+Timber Creek Campground,romo,CO,-105.8527514,40.37922514,98,30,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/260552?tab=campsites
+Todd Harbor Campground,isro,MI,-88.82111716,48.0508065,9,5,0,['None'],No,No,"['Water', ' but not potable']",No,
+Tomales Bay Boat-in Camping,pore,CA,-122.915392,38.163318,20,20,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/233359
+Tookers Island Campground,isro,MI,-88.50329335,48.12939103,2,0,0,['None'],No,No,"['Water', ' but not potable']",No,
+Tower Fall Campground,yell,WY,-110.3894759,44.88954985,31,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,
+Town Creek Hiker-Biker Campsite,choh,MD,-78.538643,39.524461,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Trailer Village RV Park - South Rim,grca,AZ,-112.115001,36.052812,123,0,80,['Hot - Year Round'],Yes - year round,Yes - year round,['Yes - year round'],No,https://gc.synxis.com/rez.aspx?chain=398&template=respgc&shell=gccls&dest=gcnp&hotel=63275&_ga=2.214229012.246257283.1612044367-731013058.1606790486
+Trappers Lake Group Backpacking Site,piro,,-86.31548882,46.58764359,1,1,0,[],,,[],,https://www.recreation.gov/camping/campgrounds/256367
+Trappers Lake Individual Backpacking Sites,piro,,-86.316522,46.586517,5,5,0,['None'],No,No,"['Water', ' but not potable']",No,https://www.recreation.gov/camping/campgrounds/256367
+Tuolumne Meadows Campground,yose,,-119.3536509,37.87447529,304,61,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/232448
+Turkey Run Ridge Group Campground,prwi,VA,-77.37274734,38.5816014,9,9,0,['None'],No,No,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/234717
+Turtle Run Hiker-Biker Campsite,choh,MD,-77.515673,39.139288,1,1,0,['None'],No,No,['Yes - seasonal'],No,
+Twelvemile Beach Campground,piro,MI,-86.21583,46.6408,36,0,0,['None'],No,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/247602
+Twin Peaks Campground,orpi,AZ,-112.8109417,31.94068108,208,34,0,['Free - Year Round'],Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/270816
+Two Medicine,glac,MT,-113.3640712,48.49211497,100,0,0,['None'],Yes - seasonal,Yes - seasonal,['Yes - seasonal'],No,https://www.recreation.gov/camping/campgrounds/258799
+Two Rivers Campground,ozar,MO,-91.276297,37.189929,22,5,0,"['Hot - Seasonal', 'Free - Seasonal']",No,No,['Yes - seasonal'],Yes - seasonal,https://www.recreation.gov/camping/campgrounds/234441
+Tyler Bend Campground,buff,AR,-92.7595278,35.9868836,42,10,0,['Hot - Year Round'],Yes - seasonal,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/233119
+Upper East Branch Campsite,kaww,ME,-68.79791,46.11382,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10145539
+Upper Goodell Creek Group Campsite,noca,WA,-121.2707765,48.68327687,1,1,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/234089
+Upper Lehman Campground,grba,,-114.24776,39.0136,23,0,0,['None'],No,No,['No water'],No,https://www.recreation.gov/camping/campgrounds/10101374
+Upper Pines Campground,yose,CA,-119.5644112,37.73842947,235,5,0,['None'],Yes - year round,Yes - seasonal,['Yes - year round'],No,https://www.recreation.gov/camping/campgrounds/232447
